@@ -159,3 +159,9 @@
 158,de_mirage,yes,yes,yes,no,yes,no,no,mm
 159,de_inferno,yes,yes,no,no,no,yes,no,mm
 160,de_inferno,yes,yes,yes,no,yes,no,yes,mm
+161,de_mirage,yes,yes,yes,yes,yes,no,yes,mm
+162,de_inferno,yes,yes,yes,no,yes,no,yes,mm
+163,de_mirage,yes,yes,yes,no,yes,no,yes,mm
+164,de_dust2,yes,yes,no,no,no,no,no,mm
+165,de_train,yes,yes,no,yes,yes,no,no,mm
+166,de_cache,no,yes,no,yes,no,yes,yes,mm
