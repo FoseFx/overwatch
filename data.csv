@@ -165,3 +165,9 @@
 164,de_dust2,yes,yes,no,no,no,no,no,mm
 165,de_train,yes,yes,no,yes,yes,no,no,mm
 166,de_cache,no,yes,no,yes,no,yes,yes,mm
+167,de_overpass,yes,yes,yes,no,yes,no,no,mm
+168,de_shortdust,yes,yes,yes,no,yes,no,yes,wm
+169,de_mirage,yes,yes,yes,no,yes,no,yes,mm
+170,de_dust2,yes,yes,no,no,yes,no,yes,mm
+171,de_inferno,yes,yes,yes,no,no,no,no,wm
+172,cs_office,yes,yes,yes,yes,yes,no,yes,mm
